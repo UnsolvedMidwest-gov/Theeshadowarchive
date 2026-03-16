@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Redacted Detroit Reports</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h2>Detroit Police Department – Classified Incident File</h2>
+
+<p>Incident ID: 031203-DET</p>
+<p>Location: Detroit 9th Precinct</p>
+<p>Witness: Unknown survivor, referred to as "Jah"</p>
+
+<p>Status: REDACTED</p>
+<p>Notes: Multiple camera feeds were corrupted. Greenlight footage partially recovered. 👁️</p>
+
+<p class="hidden">ARG clue: next file – coordinates 42.3314,-83.0458</p>
+
+</body>
+</html>
